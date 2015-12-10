@@ -17,3 +17,10 @@ It might be nice to have a branch for trial runs of programs or sites. Or even d
 How do the diagrams help you visualize the branch structure?
 
 It's nice to put it out there visually and to see where everything fits together.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches actually merges the secondary branch onto the master branch. This way we can still go back and connect to all of the previous commits on both branches.
+
+
+
