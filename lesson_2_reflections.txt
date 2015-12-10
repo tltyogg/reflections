@@ -6,5 +6,11 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is the place where you can group files together in order to commit them all together. It is very helpful because then you know that only those files have been updated and don't have to worry about the other files in the folder.
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+You could only move files that are being updated so you will know if you have one change or too many to commit at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It might be nice to have a branch for trial runs of programs or sites. Or even different options for a client or partner to look at and approve.
 
