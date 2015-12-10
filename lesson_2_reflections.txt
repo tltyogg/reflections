@@ -22,5 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging two branches actually merges the secondary branch onto the master branch. This way we can still go back and connect to all of the previous commits on both branches.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+The automatic merging only finds where there is conflct instead of checking every single line if we were doing it mnually each time.
 
