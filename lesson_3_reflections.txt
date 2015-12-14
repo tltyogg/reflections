@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I would probably use DropBox. It would be easier because it's much less technical and easier to understand right away but it would be much harder to see the differences and issues when trying to merge two different sets of code together.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+If I'm making a difference that needs approval then I would need to make a branch and then do a pull request to get those difference ok'd and merged into the master branch.
